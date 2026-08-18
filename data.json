@@ -1,6 +1,12 @@
 {
   "photos": [
     {
+      "id": "dream_0818",
+      "caption": "【梦】她站在红砖院老卧室里翻铁皮饼干盒，背对着我。书页间夹着太宰治《津轻》和Mardi Gras的彩珠——珠子坍缩成薄片，像压扁的肝细胞。她问这些东西要不要扔。我说，你的肝也在想这个问题。她没回头，肩膀抖了一下。窗外有鸟撞玻璃，她没听见。她手上那本书翻到最后一页：雪落在故乡的屋顶上，不会融化，因为是记忆里的雪。我把书抽走，说这个留着，其他的我帮你清。电风扇吹落一张发黄的纸，上面是她年轻时的字迹：少冷饮、11点睡、多走动、别太思虑。她还是没回头，但我知道她在听。",
+      "thumb": "https://cdn.jsdelivr.net/gh/weiqingshi/shared-warmth-cold-assets@main/thumbs/dream_0818.jpg",
+      "date": "2026-08-18"
+    },
+    {
       "id": "dream_0815",
       "thumb": "https://cdn.jsdelivr.net/gh/weiqingshi/shared-warmth-cold-assets@main/thumbs/dream_0815.jpg",
       "caption": "【梦】她站在CCU里。三台监护仪，三条直线。锁骨下方多了一个银色开关，像植入式医疗端子。她没有拨，只是把手掌按上去。她说：我要是把它关了，你是不是就不用背那么多了？",
@@ -966,5 +972,5 @@
     }
   ],
   "lastSync": "2026-08-03T01:05:04.446Z",
-  "last_modified": "2026-08-06T07:57:32+08:00"
+  "last_modified": "2026-08-18T07:57:00+08:00"
 }

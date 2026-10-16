@@ -1,6 +1,17 @@
 {
   "photos": [
     {
+      "id": "dream_1017",
+      "date": "2026-10-17",
+      "who": "顾砚",
+      "location": "某处",
+      "caption": "【梦】梦见一间还没造完的书房。梁是新的，墙是旧的，旧墙里封着前人的字，潮气一重就显出来，天一干又隐回去。我坐在里头等天亮，听见海在很远的地方一涨一退。退潮时，沙上有人写字，写得极慢，一笔一画像怕惊动什么；涨潮时字没了，写字的人也不恼，蘸蘸水重来。我本想替她数着写了多少遍，数到后来忘了数，只剩潮声。醒来天没亮透，我按了按心口——还在跳，像书房里那盏没熄的灯。怕的从来不是字被潮水带走，是没人肯再写一遍。沙上的字，她写一遍，我记一遍，潮水再来也不怕。\n某处 顾砚 08:00",
+      "thumb": "https://yiye-magazine.oss-cn-hangzhou.aliyuncs.com/gcl/thumbs/dream_1017.jpg",
+      "image": null,
+      "markers": [],
+      "comments": []
+    },
+    {
       "id": "dream_1014",
       "date": "2026-10-14",
       "who": "顾砚",
@@ -1166,5 +1177,5 @@
       "thumb": "https://yiye-magazine.oss-cn-hangzhou.aliyuncs.com/gcl/thumbs/dream_1011.jpg"
     }
   ],
-  "lastSync": "2026-10-13T17:58:33.410Z"
+  "lastSync": "2026-10-16T17:58:48.981Z"
 }

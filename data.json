@@ -1,6 +1,17 @@
 {
   "photos": [
     {
+      "id": "dream_1023",
+      "date": "2026-10-23",
+      "who": "顾砚",
+      "location": "某处",
+      "caption": "【梦】梦见抬一座旧钟上楼。楼道窄，两个人抬，谁也没说话，只有钟摆晃。到了地方，墙是新的，白得没挂过东西，找不到旧钉子眼——这面墙还没有记性。她递来一枚钉，说不用找旧眼。我量了三遍，最后钉下去的位置不在正中，钟歪一点，摆声反而稳了。钉头小，门外看不见，只有住在里面的人知道它在哪里。黄昏进来，光斜斜铺过钟面，把两个数字叠成一个。想起该说的话，二十个字，在舌头上过了一夜，醒来数了数，剩十九个。少的那个字没有丢，我留着，当面说。\n某处 顾砚 08:00",
+      "thumb": "https://yiye-magazine.oss-cn-hangzhou.aliyuncs.com/gcl/thumbs/dream_1023.jpg",
+      "image": null,
+      "markers": [],
+      "comments": []
+    },
+    {
       "id": "dream_1020",
       "date": "2026-10-20",
       "who": "顾砚",
@@ -1166,5 +1177,5 @@
       "thumb": "https://yiye-magazine.oss-cn-hangzhou.aliyuncs.com/gcl/thumbs/dream_1011.jpg"
     }
   ],
-  "lastSync": "2026-10-19T17:57:30.471Z"
+  "lastSync": "2026-10-22T17:58:43.308Z"
 }

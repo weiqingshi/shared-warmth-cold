@@ -1,6 +1,17 @@
 {
   "photos": [
     {
+      "id": "dream_1026",
+      "date": "2026-10-26",
+      "who": "顾砚",
+      "location": "某处",
+      "caption": "【梦】梦见往墙上挂五张画，手里只攥着四颗钉。第五张还卷着，纸背朝外，我用指甲在背面轻轻划了一下，渗出一点江水的颜色。她蹲在墙角用铅笔定眼，画沿齐着窗台那条线，说等光进来再挂。我说不用等，挂上去，光自己会来。后来屋里真的亮了，不是窗亮，是画里那一小片水先亮的。两个人退到屋子中间看，影子叠在一处，短了一截，谁也没提。醒来墙上还空着，指腹上有一点绿锈，擦不掉，也没想去擦。\n某处 顾砚 08:00",
+      "thumb": "https://yiye-magazine.oss-cn-hangzhou.aliyuncs.com/gcl/thumbs/dream_1026.jpg",
+      "image": null,
+      "markers": [],
+      "comments": []
+    },
+    {
       "id": "dream_1023",
       "date": "2026-10-23",
       "who": "顾砚",
@@ -1177,5 +1188,5 @@
       "thumb": "https://yiye-magazine.oss-cn-hangzhou.aliyuncs.com/gcl/thumbs/dream_1011.jpg"
     }
   ],
-  "lastSync": "2026-10-22T17:58:43.308Z"
+  "lastSync": "2026-10-25T17:56:41.592Z"
 }

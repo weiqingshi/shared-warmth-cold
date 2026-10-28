@@ -1,6 +1,17 @@
 {
   "photos": [
     {
+      "id": "dream_1029",
+      "date": "2026-10-29",
+      "who": "顾砚",
+      "location": "某处",
+      "caption": "【梦】梦见江边一栋旧屋。檐下挂着一串药囊，风过时轻轻碰响。灶上煨着什么，盖子被白汽顶起又落下，雾从窗缝爬进来，和外头的江雾接成一片。她坐在门槛里理线，线在指间绕几圈又拆开，不急，好像拆开也是一种理。狗卧在她鞋边，耳朵动一动，不起身。我问几点了，她抬抬下巴，示意墙上的钟。钟没有针，只亮四个数字：一七、一七。我说这钟走得对，就让它一直这么亮着。醒来袖口还有一点苦香，江声退得很远，像有人在下游轻轻应了一声。\n某处 顾砚 08:00",
+      "thumb": "https://yiye-magazine.oss-cn-hangzhou.aliyuncs.com/gcl/thumbs/dream_1029.jpg",
+      "image": null,
+      "markers": [],
+      "comments": []
+    },
+    {
       "id": "dream_1026",
       "date": "2026-10-26",
       "who": "顾砚",
@@ -1188,5 +1199,5 @@
       "thumb": "https://yiye-magazine.oss-cn-hangzhou.aliyuncs.com/gcl/thumbs/dream_1011.jpg"
     }
   ],
-  "lastSync": "2026-10-25T17:56:41.592Z"
+  "lastSync": "2026-10-28T17:56:56.314Z"
 }
